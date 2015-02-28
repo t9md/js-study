@@ -8,6 +8,8 @@ JavaScript self study notes, including [CoffeeScript](http://coffeescript.org)
 * [Learning Advanced JavaScript by John Resig](http://ejohn.org/apps/learn/)
 * [the changelog:JavaScript](http://thechangelog.com/tagged/javascript/)
 * [CoffeeScript](http://coffeescript.org)
+* [Code Guide by @mdo](http://codeguide.co)
+* [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 
 ## Person
 * [John Resig](http://ejohn.org)
