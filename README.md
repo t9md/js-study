@@ -24,11 +24,15 @@ JavaScript self study notes and usefull resources.
 
 ## Useful
 * [scotch.io](https://scotch.io)
+* [TUTORIAL REPUBLIC](http://www.tutorialrepublic.com/)
 
 ### Tools
 * [emmet CheatSheet](http://docs.emmet.io/cheat-sheet/)
 * [CODEPEN](http://codepen.io)
 * [Fillerati](http://www.fillerati.com)
+
+### Training
+[Crash Course on Modern Web Development](http://www.developingandrails.com/2015/01/crash-course-on-modern-web-development.html)
 
 ### Project
 #### Utility
@@ -52,6 +56,8 @@ JavaScript self study notes and usefull resources.
 * [Bootstrap](http://getbootstrap.com/)
 * [Foundation](http://foundation.zurb.com/)
 * [Responsive CSS Framework Comparison](http://responsive.vermilion.com/compare.php)
+* [Myth](http://www.myth.io/)
+* [Materialize](http://materializecss.com/)
 
 ### ES6, 7, HTML5
 * [Babel](https://babeljs.io)
